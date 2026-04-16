@@ -22,7 +22,7 @@ Category-level generalization for robotic garment manipulation, such as bimanual
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{daba2025fcbvnet,
+@misc{daba2026fcbvnet,
       title={FCBV-Net: Category-Level Robotic Garment Smoothing via Feature-Conditioned Bimanual Value Prediction}, 
       author={Mohammed Daba and Jing Qiu},
       year={2026},
